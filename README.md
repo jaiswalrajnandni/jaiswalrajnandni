@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswalrajnandni&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswalrajnandni" /> </p>
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Goo_gqH9dv0h8lgF3c6Fj8PM9KbYEmJq/view?usp=drivesdk)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/12eJsdEYohyoRoaQya7hAvQeEErt69E_X/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
